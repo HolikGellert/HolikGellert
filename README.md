@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student passionate about solving problems.<br>Machine Learning Enthusiast.<br>Currently mastering Python and C#.
+Computer Science student passionate about solving problems.<br>AI Enthusiast.<br>Currently mastering Python and C#.
 
 
 # 💻 Tech Stack:
