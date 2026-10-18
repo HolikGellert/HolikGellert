@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student passionate about solving problems.<br>AI Enthusiast.<br>Currently mastering Python and C#.
+Computer Science student passionate about solving problems.
 
 
 # 💻 Tech Stack:
@@ -11,8 +11,3 @@ Computer Science student passionate about solving problems.<br>AI Enthusiast.<br
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HolikGellert&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
